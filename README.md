@@ -14,7 +14,7 @@
 
 ## 🚀 Sobre mim
 
-Sou um desenvolvedor com sólida experiência em **sistemas distribuídos**, **cloud computing**, e **arquiteturas modernas** como **microsserviços**, **event-driven** e **serverless**. Trabalho com tecnologias como **Java**, **Spring Boot**, **Camunda**, **Docker**, **Kubernetes**, e **Azure**.
+Sou um desenvolvedor com sólida experiência em **sistemas distribuídos**, **cloud computing**, e **arquiteturas modernas** como **microsserviços**, **event-driven** e **serverless**. Trabalho com tecnologias como **C#**, **.NET**, **Java**, **Spring Boot**, **Camunda**, **Docker**, **Kubernetes**, e **Azure**.
 
 Tenho paixão por criar soluções robustas, escaláveis e alinhadas aos objetivos de negócio. Atualmente, atuo liderando squads de desenvolvimento e explorando o potencial de **inteligência artificial generativa** para apoiar decisões estratégicas.
 
