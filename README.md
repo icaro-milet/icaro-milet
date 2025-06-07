@@ -22,12 +22,35 @@ Tenho paixão por criar soluções robustas, escaláveis e alinhadas aos objetiv
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- ⚙️ **Linguagens**: Java, JavaScript, TypeScript, SQL, C#
-- 🧠 **Frameworks**: Spring Boot, Node.js, .NET, Camunda
+- ⚙️ **Linguagens**: Java, JavaScript, TypeScript, SQL, C#, Swift
+- 🧠 **Frameworks**: Spring Boot, Node.js, .NET, Camunda, SwiftUI
 - ☁️ **Cloud**: Azure (AKS, App Services, Azure AD), AWS
 - 🐳 **DevOps**: Docker, Kubernetes, GitHub Actions, Terraform
 - 🔐 **Segurança**: OAuth2, OpenID Connect, Auth0, Keycloak
 - 📊 **Observabilidade**: Grafana, Prometheus, KQL, ELK Stack
+
+---
+
+### 📱 Desenvolvimento Mobile
+
+Também tenho explorado o desenvolvimento de aplicativos móveis com **Swift** e **SwiftUI**, focando em **performance**, **acessibilidade** e **experiência do usuário**. Me interesso por integrações com back-ends modernos e pela construção de apps nativos que aproveitam o ecossistema Apple ao máximo.
+
+---
+
+## 🌟 Projetos em Destaque
+
+### 📱 **App de Gestão Financeira Pessoal** (Swift + SwiftUI)  
+Aplicativo mobile nativo desenvolvido com **Swift** e **SwiftUI** para controle de despesas pessoais.  
+Funcionalidades incluem categorização de gastos, visualização gráfica e sincronização com back-end via **REST APIs**.  
+> _Tecnologias:_ Swift, SwiftUI, Combine, URLSession, JSON, iCloud
+
+### 🔐 **POC Auth0 com Spring Boot**  
+Prova de conceito demonstrando autenticação e autorização com **Auth0** em APIs **RESTful** usando **Spring Boot**.  
+> _Tecnologias:_ Java, Spring Security, OAuth2, JWT, Auth0
+
+### ⚙️ **Orquestração de Workflows com Camunda 8**  
+Implantação de um sistema de orquestração de processos usando **Camunda 8** com infraestrutura baseada em **Docker**.  
+> _Tecnologias:_ Java, Camunda, Zeebe, Operate, Keycloak, Docker Compose
 
 ---
 
