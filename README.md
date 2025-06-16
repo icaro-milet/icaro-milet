@@ -39,7 +39,7 @@ Também tenho explorado o desenvolvimento de aplicativos móveis com **Swift** e
 
 ## 🌟 Projetos em Destaque
 
-### 📱 **App de Lembrete de remédios** (Swift + UIKit)  
+### 🛎️ **App de Lembrete de remédios** (Swift + UIKit)  
 Aplicativo mobile nativo desenvolvido com **Swift** e **UIKit** para lembrete de remédios.  
 Funcionalidades incluem armazenamento de receitas, visualização das datas dos remédios e autenticação via Firebase.  
 > _Tecnologias:_ Swift, UIKit, UserDefaults, Firebase, MVVM-C, Podfiles(Cocoapods)
