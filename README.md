@@ -39,10 +39,10 @@ Também tenho explorado o desenvolvimento de aplicativos móveis com **Swift** e
 
 ## 🌟 Projetos em Destaque
 
-### 📱 **App de Gestão Financeira Pessoal** (Swift + SwiftUI)  
-Aplicativo mobile nativo desenvolvido com **Swift** e **SwiftUI** para controle de despesas pessoais.  
-Funcionalidades incluem categorização de gastos, visualização gráfica e sincronização com back-end via **REST APIs**.  
-> _Tecnologias:_ Swift, SwiftUI, Combine, URLSession, JSON, iCloud
+### 📱 **App de Lembrete de remédios** (Swift + UIKit)  
+Aplicativo mobile nativo desenvolvido com **Swift** e **UIKit** para lembrete de remédios.  
+Funcionalidades incluem armazenamento de receitas, visualização das datas dos remédios e autenticação via Firebase.  
+> _Tecnologias:_ Swift, UIKit, UserDefaults, Firebase, MVVM-C, Podfiles(Cocoapods)
 
 ### 🔐 **POC Auth0 com Spring Boot**  
 Prova de conceito demonstrando autenticação e autorização com **Auth0** em APIs **RESTful** usando **Spring Boot**.  
