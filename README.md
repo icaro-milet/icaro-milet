@@ -33,7 +33,7 @@ Tenho paixão por criar soluções robustas, escaláveis e alinhadas aos objetiv
 
 ### 📱 Desenvolvimento Mobile
 
-Também tenho explorado o desenvolvimento de aplicativos móveis com **Swift** e **SwiftUI**, focando em **performance**, **acessibilidade** e **experiência do usuário**. Me interesso por integrações com back-ends modernos e pela construção de apps nativos que aproveitam o ecossistema Apple ao máximo.
+Também tenho explorado o desenvolvimento de aplicativos móveis com **Swift** e **UIKit**, focando em **performance**, **acessibilidade** e **experiência do usuário**. Me interesso por integrações com back-ends modernos e pela construção de apps nativos que aproveitam o ecossistema Apple ao máximo.
 
 ---
 
