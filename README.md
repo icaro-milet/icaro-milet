@@ -23,10 +23,10 @@ Tenho paixão por criar soluções robustas, escaláveis e alinhadas aos objetiv
 ## 🛠️ Tecnologias e Ferramentas
 
 - ⚙️ **Linguagens**: Java, JavaScript, TypeScript, SQL, C#, Swift
-- 🧠 **Frameworks**: Spring Boot, Node.js, .NET, Camunda, SwiftUI
+- 🧠 **Frameworks**: Spring Boot, Node.js, .NET, Camunda, UIKit
 - ☁️ **Cloud**: Azure (AKS, App Services, Azure AD), AWS
-- 🐳 **DevOps**: Docker, Kubernetes, GitHub Actions, Terraform
-- 🔐 **Segurança**: OAuth2, OpenID Connect, Auth0, Keycloak
+- 🐳 **DevOps**: Docker, Kubernetes, GitHub Actions
+- 🔐 **Segurança**: OAuth2, OpenID Connect, Auth0
 - 📊 **Observabilidade**: Grafana, Prometheus, KQL, ELK Stack
 
 ---
