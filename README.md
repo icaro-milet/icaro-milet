@@ -39,6 +39,10 @@ Também tenho explorado o desenvolvimento de aplicativos móveis com **Swift** e
 
 ## 🌟 Projetos em Destaque
 
+###💰 **Fluxo de Caixa - Desafio Técnico**
+Este projeto tem como objetivo controlar lançamentos financeiros (débitos e créditos) de um comerciante e consolidar os saldos diários, garantindo escalabilidade, resiliência e segurança.
+Para tal estou utilizando .NET 9, RabbitMQ, Docker, Arquitetura de Microsserviços e muito mais.
+
 ### 🛎️ **App de Lembrete de remédios** (Swift + UIKit)  
 Aplicativo mobile nativo desenvolvido com **Swift** e **UIKit** para lembrete de remédios.  
 Funcionalidades incluem armazenamento de receitas, visualização das datas dos remédios e autenticação via Firebase.  
